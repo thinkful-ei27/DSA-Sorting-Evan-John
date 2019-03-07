@@ -63,16 +63,13 @@ function qSort(arr, start = 0, end = arr.length) {
   return arr;
 }
 
-bubbleSort(numArray);
-console.log(ticks);
-
-function bucketSort(highest, lowest) {
-let seperateArr = [0,1,2,3]
-  if ()
-}
+// bubbleSort(numArray);
+// console.log(ticks);
 
 // console.log(JSON.stringify(numArray));
 
 /*
 Merge Sort
 */
+
+module.exports = qSort;
